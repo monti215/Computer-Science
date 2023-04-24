@@ -1,5 +1,25 @@
 # Computer-Science
 
+# CS-250: Software Development Lifecycle
+
+How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
+
+Creating user stories is so important when considering the success of a program. These user stories address the desires of the user and what they want out
+of the product. This is seen as one of the best ways to determine the direction of the project. We then take these user stories, address them in our daily/weekly scrum
+meetings, assign values to each story, and development a plan on what items need to be looked at first. This helps the team stay on track and maintain focus 
+on what is truly important to ensure the success of a project. 
+
+How do I approach developing programs? What agile processes do I hope to incorporate into my future development work?
+
+By following the six phases of the SDLC, that is a great way to approach any development project. Following these phases of the SDLC, the scrum team knows exactly where
+they are in a timeline and how to reach the next phase. One agile process I really like is the rapid development. THis is where you rapidly develop a product,
+alweays making it better week after week. This is a great way to ensure time efficiecy and timely product development.
+
+What does it mean to be a good team member in software development?
+
+A good team member, in my eyes, is a good listener. Being able to listen and udnerstand what each team member suggests, or problems they are encountering, you are able
+to learn and contribute meaningfuly within your team. Developing new skills and methods by seeing other peoples ways of doing things is also a great way to develop your
+skills.
 # CS300 - Analysis and Design
 What was the problem you were solving in the projects for this course?
 For these two projects the first problem we were solving was a run-time and memory analysis for certain data structures. The second project's problem we were solving was to sort and print out a list of the courses in the Computer Science program in alphanumeric order, while also loading a data structure.
