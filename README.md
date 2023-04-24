@@ -36,7 +36,7 @@ Learning the importance of run-time analysis and data structures was imperative 
 
 
 
-#Operating Platforms
+# Operating Platforms
 
 Briefly summarize the DriverPass project. Who was the client? What type of system did they want you to design?
 
